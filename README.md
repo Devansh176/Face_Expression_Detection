@@ -53,7 +53,7 @@ A real-time facial expression detection app built using **Flutter**, **Teachable
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/face_detection_flutter.git
+git clone https://github.com/Devansh176/Face_Expression_Detection.git
 cd face_detection_flutter
 
 # 2. Install dependencies
